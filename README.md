@@ -71,6 +71,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mahirsust&color=green)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahirsust&label=Profile%20views&color=0e75b6&style=flat" alt="mahirsust" /> </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
