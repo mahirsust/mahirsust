@@ -1,5 +1,5 @@
 ## &nbsp;Hey there! I'm Muhammad Mahir Hasan Chowdhury
-
+---
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at bepro GmbH in Oberhausen as Web Developer.\
@@ -72,7 +72,6 @@
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahirsust&label=Profile%20views&color=brightgreen" alt="mahirsust" /> </p>
----
 
 ### 🤝🏻 &nbsp;Connect with Me
 
