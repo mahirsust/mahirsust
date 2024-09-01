@@ -70,8 +70,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahirsust&theme=dark&hide_border=true"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mahirsust&label=Profile%20views&color=0e75b6&style=flat" alt="mahirsust" />
-[![](https://visitcount.itsvg.in/api?id=mahirsust&icon=2&color=4)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mahirsust&color=green)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
