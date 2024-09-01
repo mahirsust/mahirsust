@@ -72,12 +72,12 @@
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahirsust&label=Profile%20views&color=brightgreen" alt="mahirsust" /> </p>
------
+----
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahir-hasan/"><img src="https://img.shields.io/badge/-mahir%20hasan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:mahirhasancse@gmail.com"><img src="https://img.shields.io/badge/-mahirhasancse-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.xing.com/profile/MuhammadMahirHasan_Chowdhury"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white"/></a>
+  <a href="https://www.xing.com/profile/MuhammadMahirHasan_Chowdhury"><img src="https://img.shields.io/badge/-muhammad%20mahir%20hasan-%23006567.svg?style=flat&logo=xing&logoColor=white"/></a>
 </p>
